@@ -1,3 +1,3 @@
-Here, we shall follow closely the book Forcasting: 
+Here, we shall follow closely the book; 
 
-- Principles and Practice by R.J Hyndman and G. Athanasopoulos
+- Forcasting: Principles and Practice by R.J Hyndman and G. Athanasopoulos
