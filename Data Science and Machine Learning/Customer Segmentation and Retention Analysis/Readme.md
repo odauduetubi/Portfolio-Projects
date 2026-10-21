@@ -8,7 +8,7 @@ The data
 
 | Attribute Name | Data Type        | Description                                                                 |
 |----------------|------------------|-----------------------------------------------------------------------------|
-| **InvoiceNo**  | Nominal / Object | A 6-digit unique identifier for each invoice. Numbers starting with **'c'** denote a cancelled transaction. |
+| **InvoiceNo**  | Nominal / Object | A 6-digit unique identifier for each invoice. Numbers starting with **'C'** denote a cancelled transaction. |
 | **StockCode**  | Nominal / Object | A distinct code assigned uniquely to each physical product or service fee.  |
 | **Description**| Nominal / Object | The product item name or operational text descriptor.                       |
 | **Quantity**   | Numeric / Integer| The number of units per transaction line. Negative values signify returns or system reversals. |
